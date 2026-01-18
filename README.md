@@ -9,83 +9,66 @@ The project demonstrates end-to-end data analytics workflow including data clean
 
 🛠 Tools & Technologies Used
 
-SQL – Data querying and analysis
+1. SQL – Data querying and analysis
 
-Python – Data cleaning and preprocessing
+2. Python – Data cleaning and preprocessing
 
-Power BI – Dashboard creation and data visualization
+3. Power BI – Dashboard creation and data visualization
 
-Pandas – Data manipulation
+4. Pandas – Data manipulation
 
-Excel / CSV – Dataset handling
-
-📁 Project Structure
-customer-trends-data-analysis-SQL-Python-PowerBI
-│
-├── Dataset/
-│   └── Customer data files
-│
-├── SQL Queries/
-│   └── Analysis queries
-│
-├── Python Scripts/
-│   └── Data preprocessing and analysis scripts
-│
-├── PowerBI Dashboard/
-│   └── Visualization files
-│
-└── README.md
+5. Excel / CSV – Dataset handling
 
 📌 Key Objectives
 
-Analyze customer purchasing behavior
+1. Analyze customer purchasing behavior
 
-Identify sales trends and patterns
+2. Identify sales trends and patterns
 
-Segment customers based on activity
+3. Segment customers based on activity
 
-Improve business decision-making through insights
+4. Improve business decision-making through insights
 
-Create interactive dashboards for reporting
+5. Create interactive dashboards for reporting
 
 📈 Key Insights (Example)
 
 Some insights derived from the analysis include:
 
-Top-performing customer segments
+1. Top-performing customer segments
 
-Sales trends across time periods
+2. Sales trends across time periods
 
-High-revenue product categories
+3. High-revenue product categories
 
-Customer retention patterns
+4. Customer retention patterns
 
-Regional performance comparison
+5. Regional performance comparison
 
 (Exact insights may vary depending on dataset filters and dashboard interactions.)
 
 📊 Dashboard Features
 
-Interactive filters
+1. Interactive filters
 
-Trend analysis visuals
+2. Trend analysis visuals
 
-KPI metrics
+3. KPI metrics
 
-Customer segmentation charts
+4. Customer segmentation charts
 
-Sales performance graphs
+5. Sales performance graphs
 
 🎯 Use Cases
 
 This project can be useful for:
 
-Business Intelligence analysis
+1. Business Intelligence analysis
 
-Marketing strategy optimization
+2. Marketing strategy optimization
 
-Customer segmentation projects
+3. Customer segmentation projects
 
-Portfolio demonstration
+4. Portfolio demonstration
 
-Data analytics practice
+5. Data analytics practice
